@@ -1,0 +1,15 @@
+C:\source\CarWebservice\CarWebservice\bin\Release\netcoreapp2.1\CarWebservice.deps.json
+C:\source\CarWebservice\CarWebservice\bin\Release\netcoreapp2.1\CarWebservice.runtimeconfig.json
+C:\source\CarWebservice\CarWebservice\bin\Release\netcoreapp2.1\CarWebservice.runtimeconfig.dev.json
+C:\source\CarWebservice\CarWebservice\bin\Release\netcoreapp2.1\CarWebservice.dll
+C:\source\CarWebservice\CarWebservice\bin\Release\netcoreapp2.1\CarWebservice.pdb
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.csprojAssemblyReference.cache
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.csproj.CoreCompileInputs.cache
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.RazorAssemblyInfo.cache
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.RazorAssemblyInfo.cs
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.AssemblyInfoInputs.cache
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.AssemblyInfo.cs
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.RazorTargetAssemblyInfo.cache
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.dll
+C:\source\CarWebservice\CarWebservice\obj\Release\netcoreapp2.1\CarWebservice.pdb
